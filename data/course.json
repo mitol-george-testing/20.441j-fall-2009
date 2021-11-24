@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Cell and Tissue Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2cafc895-368a-2114-6e7d-3538b3a6d816",
+      "2bb25db1-18c4-7c8e-fc9e-dbaa4573caa2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Biomaterials-Tissue Interactions",
+  "course_description": "This course covers the principles of materials science and cell biology underlying the design of medical implants, artificial organs, and matrices for tissue engineering. Methods for biomaterials surface characterization and analysis of protein adsorption on biomaterials. Molecular and cellular interactions with biomaterials are analyzed in terms of unit cell processes, such as matrix synthesis, degradation, and contraction. Mechanisms underlying wound healing and tissue remodeling following implantation in various organs. Tissue and organ regeneration. Design of implants and prostheses based on control of biomaterials-tissue interactions. Comparative analysis of intact, biodegradable, and bioreplaceable implants by reference to case studies. Criteria for restoration of physiological function for tissues and organs.\n",
+  "department_numbers": [
+    "20",
+    "2",
+    "3",
+    "HST"
+  ],
+  "extra_course_numbers": "2.79J,3.96J,HST.522J",
+  "primary_course_number": "20.441J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
